@@ -4,23 +4,23 @@
 **Model 1**
 ------------
 
-1. Model number : 1
+### 1. Model number : 1
 
 <img width="1112" alt="model1" src="https://user-images.githubusercontent.com/80735580/173315818-322ae6c9-dc94-47fc-918d-355f82ccab44.png">
 
-2. Training accuracy and loss
+### 2. Training accuracy and loss
 
 <img width="874" alt="train_acc1" src="https://user-images.githubusercontent.com/80735580/173315932-6a29c40b-3b47-4fe0-a5b7-3ea1add2eb48.png">
 
-3. Test accuracy and loss
+### 3. Test accuracy and loss
 
 <img width="739" alt="test_acc1" src="https://user-images.githubusercontent.com/80735580/173315967-516c7af3-1856-4975-9a52-21f0df0f7433.png">
 
-4. Images and corresponding probability that are predicted right
+### 4. Images and corresponding probability that are predicted right
 
 <img width="761" alt="result1" src="https://user-images.githubusercontent.com/80735580/173316023-cba1c9ef-f67f-4352-a81f-447ae01fb57c.png">
 
-5. Images and corresponding probability that are predicted wrong
+### 5. Images and corresponding probability that are predicted wrong
 
 <img width="1101" alt="error1" src="https://user-images.githubusercontent.com/80735580/173316074-1b28bcc8-c815-4b28-82fc-5ae77bc53e8f.png">
 
