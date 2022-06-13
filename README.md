@@ -35,7 +35,7 @@
 
 <img width="864" alt="train_acc2" src="https://user-images.githubusercontent.com/80735580/173316839-1345f2f3-341e-4092-bb59-cbf384a2a8f2.png">
 
-####3. Test accuracy and loss
+#### 3. Test accuracy and loss
 
 <img width="732" alt="test_acc2" src="https://user-images.githubusercontent.com/80735580/173316878-407ee44e-fd0e-405a-91b3-ba6c171acc43.png">
 
