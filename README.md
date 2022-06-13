@@ -48,18 +48,20 @@
 
 1. Model number : 3
 
+<img width="1115" alt="model3" src="https://user-images.githubusercontent.com/80735580/173317292-8c7e4956-be30-476d-a7a9-fc5c17d01356.png">
 
+2. Training accuracy and loss
 
-Training accuracy and loss
+<img width="872" alt="train_acc3" src="https://user-images.githubusercontent.com/80735580/173317412-f23b2602-c21f-4438-b524-128b7b5ed6df.png">
 
+3. Test accuracy and loss
 
+<img width="732" alt="test_acc3" src="https://user-images.githubusercontent.com/80735580/173317456-71f4850e-61df-49d9-beab-b00ee08616e2.png">
 
-Test accuracy and loss
+4. Images and corresponding probability that are predicted right
 
+<img width="756" alt="result3" src="https://user-images.githubusercontent.com/80735580/173317533-7f3c3c0f-2420-4a15-b076-2b494865e38b.png">
 
+5. Images and corresponding probability that are predicted wrong
 
-Images and corresponding probability that are predicted right
-
-
-Images and corresponding probability that are predicted wrong
-
+<img width="1100" alt="error3" src="https://user-images.githubusercontent.com/80735580/173317582-e3eab088-492d-4aa6-8a76-14f34b4d3648.png">
