@@ -43,3 +43,25 @@ Images and corresponding probability that are predicted right
 Images and corresponding probability that are predicted wrong
 
 <img width="1096" alt="error" src="https://user-images.githubusercontent.com/80735580/173302660-d43d3d8e-d17c-4aee-826f-63659a966bdf.png">
+
+**<Model 3>**
+
+model number : 3
+
+<img width="1126" alt="model_num" src="https://user-images.githubusercontent.com/80735580/173302990-2b98aa99-9f0d-4e2f-996a-fce8366d9aa8.png">
+
+Training accuracy and loss
+
+<img width="897" alt="train_acc" src="https://user-images.githubusercontent.com/80735580/173303092-3df95f38-1a25-4e2f-aad1-b4ca8541f15f.png">
+
+Test accuracy and loss
+
+<img width="712" alt="test_acc" src="https://user-images.githubusercontent.com/80735580/173303065-a33ecc45-cd8e-4344-ab3c-43df809028c3.png">
+
+Images and corresponding probability that are predicted right
+
+<img width="772" alt="result" src="https://user-images.githubusercontent.com/80735580/173303028-a04bd65a-ea36-4a68-85a3-163eb2747880.png">
+
+Images and corresponding probability that are predicted wrong
+
+<img width="1092" alt="error" src="https://user-images.githubusercontent.com/80735580/173302948-65790690-af7b-4d6c-bb97-6b59993f5bb7.png">
