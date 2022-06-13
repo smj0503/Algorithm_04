@@ -4,45 +4,41 @@
 
 model number : 1
 
-![model_num](https://user-images.githubusercontent.com/80735580/173301274-140d4754-c67c-4791-812a-ebaeb1f89735.png)
+<img width="1112" alt="model1" src="https://user-images.githubusercontent.com/80735580/173315818-322ae6c9-dc94-47fc-918d-355f82ccab44.png">
 
 Training accuracy and loss
 
-<img width="1028" alt="training_acc" src="https://user-images.githubusercontent.com/80735580/173301401-8a15d2d8-0e01-4aaa-bef8-faafe08b9c24.png">
+<img width="874" alt="train_acc1" src="https://user-images.githubusercontent.com/80735580/173315932-6a29c40b-3b47-4fe0-a5b7-3ea1add2eb48.png">
 
 Test accuracy and loss
 
-<img width="819" alt="test_acc" src="https://user-images.githubusercontent.com/80735580/173301522-7d237a6c-7fe9-4cf5-8702-f13ad83ea627.png">
+<img width="739" alt="test_acc1" src="https://user-images.githubusercontent.com/80735580/173315967-516c7af3-1856-4975-9a52-21f0df0f7433.png">
 
 Images and corresponding probability that are predicted right
 
-<img width="870" alt="result" src="https://user-images.githubusercontent.com/80735580/173301593-b1d755e4-35da-401b-9328-ab78092219be.png">
+<img width="761" alt="result1" src="https://user-images.githubusercontent.com/80735580/173316023-cba1c9ef-f67f-4352-a81f-447ae01fb57c.png">
 
 Images and corresponding probability that are predicted wrong
 
-<img width="1245" alt="error" src="https://user-images.githubusercontent.com/80735580/173301649-87c13cdb-3a84-411d-aedc-428e26e6f386.png">
+<img width="1101" alt="error1" src="https://user-images.githubusercontent.com/80735580/173316074-1b28bcc8-c815-4b28-82fc-5ae77bc53e8f.png">
 
 **<Model 2>**
 
 model number : 2
 
-<img width="1120" alt="model_num" src="https://user-images.githubusercontent.com/80735580/173302525-2f9d3ec7-8a71-4fe2-954f-4ce8bdda59c1.png">
 
 Training accuracy and loss
 
-<img width="893" alt="train_acc" src="https://user-images.githubusercontent.com/80735580/173302564-3bdc559b-b99a-493d-80c1-27141a2d4e99.png">
 
 Test accuracy and loss
 
-<img width="716" alt="test_acc" src="https://user-images.githubusercontent.com/80735580/173302600-ab5358ba-82ac-4d90-9492-e040da0cf718.png">
 
 Images and corresponding probability that are predicted right
 
-<img width="760" alt="result" src="https://user-images.githubusercontent.com/80735580/173302629-1a96979c-1cac-45cd-84ab-ed0f9625bab3.png">
+
 
 Images and corresponding probability that are predicted wrong
 
-<img width="1096" alt="error" src="https://user-images.githubusercontent.com/80735580/173302660-d43d3d8e-d17c-4aee-826f-63659a966bdf.png">
 
 **<Model 3>**
 
